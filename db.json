@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": "00001",
+      "name": "Mario Kart live",
+      "category": "Juegos",
+      "price": "10.000",
+      "url": "./img/juego/juego1.jpg",
+      "description": "Lo ultimo en videojuegos"
+    },
+    {
+      "id": "00002",
+      "name": "jumanji",
+      "category": "Juegos",
+      "price": "8000",
+      "url": "./img/juego/juego2.jpg",
+      "description": "lo ultimo en videojuegos"
+    },
+    {
+      "id": "00003",
+      "name": "Minicraft",
+      "category": "Juegos",
+      "price": "12000",
+      "url": "./img/juego/juego3.jpg",
+      "description": "lo ultimo en videojuegos"
+    },
+    {
+      "id": "00004",
+      "name": "The legend of Zelda",
+      "category": "Juegos",
+      "price": "14000",
+      "url": "./img/juego/juego4.jpg",
+      "description": "lo ultimo en videojuegos"
+    },
+    
+    {
+      "id": "00005",
+      "name": "Nintendo 1",
+      "category": "Consolas",
+      "price": "20000",
+      "url": "./img/consolas/consola1.jpg",
+      "description": "lo ultimo en consolas"
+    },
+    {
+      "id": "00006",
+      "name": "Nintendo 2",
+      "category": "Consolas",
+      "price": "11000",
+      "url": "./img/consolas/consola2.jpg",
+      "description": "lo ultimo en consolas"
+    },
+    {
+      "id": "00007",
+      "name": "Nintendo 3",
+      "category": "Consolas",
+      "price": "17800",
+      "url": "./img/consolas/consola3.jpg",
+      "description": "lo ultimo en consolas"
+    },
+    {
+      "id": "00007",
+      "name": "Nintendo 4",
+      "category": "Consolas",
+      "price": "12560",
+      "url": "./img/consolas/consola4.jpg",
+      "description": "lo ultimo en consolas"
+    },
+    
+    {
+      "id": "00008",
+      "name": "accesorio 1",
+      "category": "accesorios para gamers",
+      "price": "20000",
+      "url": "./img/accesorios_juegos/accesorio1.jpg",
+      "description": "lo utltimo en accesorios para gamers"
+    },
+    {
+      "id": "00009",
+      "name": "accesorio 2",
+      "category": "accesorios para gamers",
+      "price": "18750",
+      "url": "./img/accesorios_juegos/accesorio2.jpg",
+      "description": "lo utltimo en accesorios para gamers"
+    },
+    {
+      "id": "000010",
+      "name": "accesorio 3",
+      "category": "accesorios para gamers",
+      "price": "8745",
+      "url": "./img/accesorios_juegos/accesorio3.jpg",
+      "description": "lo utltimo en accesorios para gamers"
+    },
+    {
+      "id": "000011",
+      "name": "accesorio 4",
+      "category": "accesorios para gamers",
+      "price": "25000",
+      "url": "./img/accesorios_juegos/accesorio4.jpg",
+      "description": "lo utltimo en accesorios para gamers"
+    }
+    
+  ]
+}
